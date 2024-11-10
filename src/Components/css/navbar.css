@@ -1,0 +1,9 @@
+.navInput::placeholder {
+    font-size: 18px;
+}
+.navInput{
+    font-size: large;
+    outline:none;
+    border: none;
+    height: 100%;
+}
